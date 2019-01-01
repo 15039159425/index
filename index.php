@@ -1,5 +1,5 @@
 <?php
-echo "王明展真帅';
+echo "王明展真帅";
 session_start();
 header ('Content-Type: image/png');
 $image=imagecreatetruecolor(100, 30);
