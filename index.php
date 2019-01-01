@@ -1,7 +1,7 @@
 <?php
 
 echo "你真帅!!!!!";
-
+echo '123123';
 session_start();
 header ('Content-Type: image/png');
 $image=imagecreatetruecolor(100, 30);
