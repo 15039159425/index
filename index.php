@@ -1,6 +1,5 @@
 <?php
-112321321
-1111111111;die;
+echo "王明展真帅';
 session_start();
 header ('Content-Type: image/png');
 $image=imagecreatetruecolor(100, 30);
